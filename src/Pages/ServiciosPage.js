@@ -1,3 +1,6 @@
+
+import '../Styles/Components/Pages/ServiciosPage.css'
+
 const ServiciosPage=(props)=>{
     return(
 <div>

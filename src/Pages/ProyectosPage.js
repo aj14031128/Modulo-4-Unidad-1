@@ -1,3 +1,5 @@
+import '../Styles/Components/Pages/ProyectosPage.css'
+
 const ProyectosPage=(props)=>{
     return(
 <div>
